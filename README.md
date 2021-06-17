@@ -1,0 +1,2 @@
+# cattle_mutilation
+主人公の牛を操作して草を食べるゲーム
