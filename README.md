@@ -8,3 +8,6 @@ Aボタン：草を食べる　　Bボタン：歩く<br>
 制作著作　がけっぷち<br>
 
 Copyright (c) 2021 gakeppuchi
+
+YOUTUBE <br>
+https://www.youtube.com/watch?v=amZ7jdnMGw4 <br>
